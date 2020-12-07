@@ -10,4 +10,8 @@ ignore:
     - '*':
         reason: false positive
         expires: 2021-01-01T00:00:00
+  SNYK-GOLANG-GITHUBCOMDGRIJALVAJWTGO-596515:
+    - '*':
+        reason: does not apply
+        expires: 2021-01-01T00:00:00
 # patch: {}
