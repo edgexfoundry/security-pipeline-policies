@@ -1,1 +1,3 @@
 # security-pipeline-policies
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/edgexfoundry/security-pipeline-policies)](https://github.com/edgexfoundry/security-pipeline-policies/pulls) [![GitHub Contributors](https://img.shields.io/github/contributors/edgexfoundry/security-pipeline-policies)](https://github.com/edgexfoundry/security-pipeline-policies/contributors) [![GitHub Committers](https://img.shields.io/badge/team-committers-green)](https://github.com/orgs/edgexfoundry/teams/security-pipeline-policies-committers/members) [![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/edgexfoundry/security-pipeline-policies)](https://github.com/edgexfoundry/security-pipeline-policies/commits)
+
